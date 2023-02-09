@@ -5,8 +5,8 @@
 <ul>
   <li> Managment engineer for information systems </li>
   <li> currently enrolled in the course of Data managment and Engineering at Politecnico di Torino</li>
-  <li> Ex member of BEST as event Organizer</li>
-  <li> Ex member of AIESEC as Team Leader in marketing area </li>
+  <li> Ex event organizer at BEST </li>
+  <li> Ex Team Leader in marketing area at AIESEC</li>
 </ul>
 
 *Table of skills:*
