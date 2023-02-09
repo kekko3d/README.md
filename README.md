@@ -4,12 +4,12 @@
 
 <ul>
   <li> Managment engineer for information systems </li>
-  <li> currently enrolled in the course of Data managment and Engineering at Politecnico di Torino</li>
+  <li> Currently enrolled in the course of Data managment and Engineering at Politecnico di Torino</li>
   <li> Ex event organizer at BEST </li>
   <li> Ex Team Leader in marketing area at AIESEC</li>
 </ul>
 
-*Table of skills:*
+*Some of my skills:*
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
