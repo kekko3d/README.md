@@ -28,6 +28,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 <code><img width="10%" src=https://github.com/kekko3d/imgs/blob/main/spark%20(1).png></code>
+<code><img width="10%" src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg></code>
+
+
+
 
 * Machine Learning & Deep Learning:
 <code><img width="10%" src="https://github.com/kekko3d/imgs/blob/main/scikit.png"></code>
@@ -41,13 +45,12 @@
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
 
-
 * IDES:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
 <code><img width="5%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
 
-
+* 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
