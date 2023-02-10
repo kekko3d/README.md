@@ -8,9 +8,8 @@
   <li> Ex event organizer at BEST </li>
   <li> Ex Team Leader in marketing area at AIESEC</li>
 </ul>
-
+    
 *Some of my skills:*
-
 
 * Programming Languages:
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -30,25 +29,20 @@
 <code><img width="10%" src=https://github.com/kekko3d/imgs/blob/main/spark%20(1).png></code>
 <code><img width="4%" src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg></code>
 
-
-
+* IDES:
+<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
+<code><img width="5%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
 
 * Machine Learning & Deep Learning:
 <code><img width="10%" src="https://github.com/kekko3d/imgs/blob/main/scikit.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 
-
 * Cloud Computing Platforms:
 <code><img width="8%" src="https://github.com/kekko3d/imgs/blob/main/colab.svg (1).png"></code>
 <code><img width="4%" src="https://github.com/kekko3d/imgs/blob/main/deepnote.png"></code>
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
-
-
-* IDES:
-<code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
-<code><img width="5%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
 
 * Web development languages:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
