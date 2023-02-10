@@ -3,7 +3,7 @@
 *A little about myself:*
 
 <ul>
-  <li> Managment engineer for information systems </li>
+  <li> <em>Managment engineer for information systems</em> </li>
   <li> Currently enrolled in the course of Data managment and Engineering at Politecnico di Torino</li>
   <li> Ex event organizer at BEST </li>
   <li> Ex Team Leader in marketing area at AIESEC</li>
