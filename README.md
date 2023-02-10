@@ -43,7 +43,7 @@
 
 
 * IDES:
-<code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img width="4%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
 <code><img width="5%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
 
