@@ -41,9 +41,9 @@
 <code><img width="4%" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
 * IDES:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vscode/vscode-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
-<code><img width="3%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
+<code><img width="5%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
