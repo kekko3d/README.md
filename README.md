@@ -3,10 +3,10 @@
 *A little about myself:*
 
 <ul>
-  <li> <em>***[Managment engineer for information systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2024&p_sdu=38&p_cds=5)***</em> </li>
-  <li> <em>Currently enrolled in the course of [Data Science and Engineering at Politecnico di Torino](https://www.polito.it/en/education/master-s-degree-programmes/data-science-and-engineering/programme-curriculum)</li>
-  <li> <em>Ex event organizer at BEST </li>
-  <li> <em>Ex Team Leader in marketing area at AIESEC</li>
+  <li> <em>[Managment engineer for information systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2024&p_sdu=38&p_cds=5 </li>
+  <li> Currently enrolled in the course of [Data Science and Engineering at Politecnico di Torino](https://www.polito.it/en/education/master-s-degree-programmes/data-science-and-engineering/programme-curriculum) </li>
+  <li> Ex event organizer at BEST </li>
+  <li> Ex Team Leader in marketing area at AIESEC </li>
 </ul>
     
 *Some of my skills:*
