@@ -34,7 +34,7 @@
 
 
 * Cloud Computing Platforms:
-<code><img width="4%" src="https://github.com/kekko3d/imgs/blob/main/colab.svg (1).png"></code>
+<code><img width="6%" src="https://github.com/kekko3d/imgs/blob/main/colab.svg (1).png"></code>
 <code><img width="4%" src="https://github.com/kekko3d/imgs/blob/main/deepnote.png"></code>
 <code><img width="4%" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
