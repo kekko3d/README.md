@@ -12,24 +12,24 @@
 *Some of my skills:*
 
 
-* Programming languages:
+* Programming Languages:
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 
 
-* Database managment system:
+* Database Managment System:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 
-* Data science:
+* Data Science:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 <code><img width="10%" src=https://github.com/kekko3d/imgs/blob/main/spark%20(1).png></code>
 
-* Machine learning & deep learning:
+* Machine Learning & Deep Learning:
 <code><img width="10%" src="https://github.com/kekko3d/imgs/blob/main/scikit.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
