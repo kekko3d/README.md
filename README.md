@@ -27,7 +27,7 @@
 
 * <em>IDES</em>:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse.svg"></code>
+<code><img width="10%" src="https://github.com/kekko3d/imgs/blob/main/eclipse.png"></code> 
 <code><img width="5%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
 
 * <em>Machine Learning & Deep Learning</em>:
