@@ -4,47 +4,47 @@
 
 <ul>
   <li> <em>Managment engineer for information systems</em> </li>
-  <li> Currently enrolled in the course of Data managment and Engineering at Politecnico di Torino</li>
-  <li> Ex event organizer at BEST </li>
-  <li> Ex Team Leader in marketing area at AIESEC</li>
+  <li> <em>Currently enrolled in the course of Data managment and Engineering at Politecnico di Torino</li>
+  <li> <em>Ex event organizer at BEST </li>
+  <li> <em>Ex Team Leader in marketing area at AIESEC</li>
 </ul>
     
 *Some of my skills:*
 
-* Programming Languages:
+* <em>Programming Languages</em>:
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 
 
-* Database Managment System:
+* <em>Database Managment System</em>:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 
-* Data Science:
+* <em>Data Science</em>:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 <code><img width="10%" src=https://github.com/kekko3d/imgs/blob/main/spark%20(1).png></code>
 <code><img width="4%" src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg></code>
 
-* IDES:
+* <em>IDES</em>:
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
 <code><img width="5%" src="https://github.com/kekko3d/imgs/blob/main/pycharm.svg.png"></code>
 
-* Machine Learning & Deep Learning:
+* <em>Machine Learning & Deep Learning</em>:
 <code><img width="10%" src="https://github.com/kekko3d/imgs/blob/main/scikit.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 
-* Cloud Computing Platforms:
+* <em>Cloud Computing Platforms</em>:
 <code><img width="8%" src="https://github.com/kekko3d/imgs/blob/main/colab.svg (1).png"></code>
 <code><img width="4%" src="https://github.com/kekko3d/imgs/blob/main/deepnote.png"></code>
 <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
-* Web development languages:
+* Web development languages</em>:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
