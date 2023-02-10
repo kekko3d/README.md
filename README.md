@@ -7,7 +7,7 @@
   * Ex-event organizer at BEST
   * Ex-Team Leader in marketing area at AIESEC
     
-***Some of my skills:
+### Some of my skills:
 
 * <em>Programming Languages</em>:
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
