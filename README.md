@@ -2,7 +2,7 @@
 
 *A little about myself:*
 
-  * [Managment Engineer for information systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2024&p_sdu=38&p_cds=5) </li>
+  * [Managment Engineer for information systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2024&p_sdu=38&p_cds=5)  :mortar_board:
   * Currently enrolled in the course of [Data Science and Engineering at Politecnico di Torino](https://www.polito.it/en/education/master-s-degree-programmes/data-science-and-engineering/programme-curriculum)
   * Ex-event organizer at BEST
   * Ex-Team Leader in marketing area at AIESEC
