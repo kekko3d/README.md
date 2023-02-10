@@ -40,17 +40,15 @@
 <code><img width="4%" src="https://github.com/kekko3d/imgs/blob/main/deepnote.png"></code>
 <code><img width="4%" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
-*IDES:
+* IDES:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pycharm/pycharm-ar21.svg"></code>
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
