@@ -24,7 +24,7 @@
 <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 <code><img width="10%" src=https://github.com/kekko3d/imgs/blob/main/spark%20(1).png></code>
 <code><img width="4%" src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg></code>
-<code><img width="10%" src=https://github.com/kekko3d/imgs/blob/main/Hadoop_logo.svg></code>
+<code><img width="13%" src=https://github.com/kekko3d/imgs/blob/main/Hadoop_logo.svg></code>
 
 
 * <em>IDES</em>:
