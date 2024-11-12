@@ -34,7 +34,6 @@
 
 * <em>Machine Learning & Deep Learning</em>:
 <code><img width="10%" src="https://github.com/kekko3d/imgs/blob/main/scikit.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 
 * <em>Cloud Computing Platforms</em>:
