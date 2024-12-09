@@ -2,8 +2,9 @@
 
 *A little about myself:*
 
-  * [Managment Engineer for information systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2024&p_sdu=38&p_cds=5)  :mortar_board:
-  * Degree in [Data Science and Engineering at Politecnico di Torino](https://www.polito.it/en/education/master-s-degree-programmes/data-science-and-engineering/programme-curriculum) :computer:
+
+  * Master degree in [Data Science and Engineering at Politecnico di Torino](https://www.polito.it/en/education/master-s-degree-programmes/data-science-and-engineering/programme-curriculum) :computer:
+  * Bachelor degree in [Managment Engineer for information systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2024&p_sdu=38&p_cds=5)  :mortar_board:
   * Ex-event organizer at [BEST](https://www.best.eu.org/index.jsp)
   * Ex-Team Leader in marketing area at [AIESEC](https://www.aiesec.it/)
     
